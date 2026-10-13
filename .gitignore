@@ -2,3 +2,9 @@
 __pycache__/
 *.pyc
 .pytest_cache/
+image-queue-api/uploads/*
+!image-queue-api/uploads/.gitkeep
+
+image-queue-api/outputs/*
+!image-queue-api/outputs/.gitkeep
+
